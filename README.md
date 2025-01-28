@@ -14,7 +14,7 @@ I'm a passionate developer with a keen interest in web development, data science
 ## My Skills
 - **Languages**: PHP, JavaScript, HTML, CSS
 - **Tools and Platforms**: GitHub Actions
-- **Databases**: MySQL, Apache
+- **Databases**: MySQL,
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/pearl-nzilani-a6b26923b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
